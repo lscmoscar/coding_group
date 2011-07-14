@@ -1,3 +1,4 @@
-##Members: Z,Moose,Face
-
-Meeting: PopBar near Union Square
+Meetup 1:
+###Members: Z,Moose,Face
+Where: PopBar near Union Square
+Topic: git - basic/beginner
